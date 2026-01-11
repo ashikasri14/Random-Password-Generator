@@ -13,4 +13,8 @@ function generate() {
     }
 
     document.getElementById("password").value = password;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> dc2c3e07ea329fa37b9494044ad373780a9b7017
